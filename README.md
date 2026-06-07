@@ -3,5 +3,5 @@ This program has you play a game that presents scrambled words and you have to f
 ---
 
 ## Videos
-- [Code Demo](https://www.youtube.com/watch?v=...)
+- [Code Demo]([https://www.youtube.com/watch?v=...](https://youtu.be/BNIlzHHZd-M))
 - [Code Walkthrough](https://www.youtube.com/watch?v=...)
